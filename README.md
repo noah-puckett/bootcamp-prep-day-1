@@ -4,24 +4,24 @@ You're so good and I love you very much
 
 ***
 Instructors:
-Willam (NOT WILLIAM)
-Marty
-TAs:
-Easton (red shirt black beanie)
-Claire: blonde
+Willam (NOT WILLIAM)  
+Marty  
+TAs:  
+Easton (red shirt black beanie)  
+Claire: blonde  
 Sarah: yellow beanie
 ***
 IDE is an environment like sublime, atom, vscode
 ***
 keyboard shortcuts?
-retrospectives: IMPORTANT. dunno what they are 
+retrospectives: IMPORTANT. dunno what they are  
 GHPages-- "publish script"
 ***
 typing speed and aptitude important for not speed, but cognitive load assist.
 use post-it? shortcut cycle?
 HOW DO YOU LAUNCH THE TERMINAL USING THE KEYBOARD ON LINUX?
 tomorrow is INTER-APP tab-through tutorial   
-CRTL-Q is quit 
+CRTL-Q is quit  
 IT'S pronounced "TIL DEE???"
 ***
 RETROSPECTIVE:
