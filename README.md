@@ -1,5 +1,2 @@
 # bootcamp-prep-day-1
-a repo for day one of bootcamp prep
-YOU'RE DOING GREAT
-no passwords
-one more line
+You're so good and I love you very much
